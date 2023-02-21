@@ -1,5 +1,7 @@
 # Olá 👋, eu sou Cínthia.
 
+<img align="right" height="450em" src="https://i.picasion.com/pic92/8daf6c1a632636e054d2389278fcca94.gif">
+
 - 📚 Eu estou estudando atualmente UI Design e Desenvolvimento Web.
 - 👩🏻‍💻 Eu tenho como objetivo me tornar desenvolvedora front-end e UX/UI Design.
 - 📺 No meu tempo livre gosto de assistir animes e filmes, ler livros que despertem a minha imaginação e de fazer crochê.
