@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá 👋, eu sou Cínthia.
 
-<!--
-**Cinthia-Silva/Cinthia-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Eu estou estudando atualmente UI Design e Desenvolvimento Web.
+- 👩🏻‍💻 Eu tenho como objetivo me tornar desenvolvedora front-end e UX/UI Design.
+- 📺 No meu tempo livre gosto de assistir animes e filmes, ler livros que despertem a minha imaginação e de fazer crochê.
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinthia-Silva&layout=compact&theme=radical&hide_border=true&text_color=fff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cinthia-Silva&show_icons=true&theme=radical&hide_border=true&text_color=fff">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+## 💻 Tecnologias & Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode,github,git&theme=dark)
