@@ -14,4 +14,4 @@
 
 ## 🌐 Conecte-se comigo
 
-[![My Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://https://www.linkedin.com/in/cinthia-oliveira-silva/)
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/cinthia-oliveira-silva/)
