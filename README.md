@@ -13,7 +13,7 @@
 
 ## 💻 Tecnologias & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,postgres,git,github,vscode,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,postgres,git,github,vscode,figma&theme=dark)
 
 ## 🌐 Conecte-se comigo
 
